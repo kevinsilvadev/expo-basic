@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "expo-basic",
+    "description": "expo-basic - a expo template with basic configs",
     "slug": "expo-basic",
     "version": "1.0.0",
     "githubUrl": "https://github.com/carlos3g/expo-basic",
