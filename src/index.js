@@ -1,10 +1,10 @@
 import React from 'react';
 
+// import { NavigationContainer } from '@react-navigation/native';
+// import Navigation from './Navigation';
 import { StatusBar } from 'expo-status-bar';
 
 import HomeScreen from '@screens/Home';
-
-// import Navigation from './Navigation';
 
 function App() {
   return (
