@@ -15,6 +15,10 @@ const importOptions = {
       rootPathSuffix: './src/screens',
       rootPathPrefix: '@screens/',
     },
+    {
+      rootPathSuffix: './src/services',
+      rootPathPrefix: '@services/',
+    },
   ],
 };
 

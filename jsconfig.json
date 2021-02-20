@@ -5,7 +5,8 @@
       "~/*": ["src/*"],
       "@assets/*": ["src/assets/*"],
       "@components/*": ["src/components/*"],
-      "@screens/*": ["src/screens/*"]
+      "@screens/*": ["src/screens/*"],
+      "@services/*": ["src/services/*"]
     }
   },
   "Include": ["./src/**/*"],
