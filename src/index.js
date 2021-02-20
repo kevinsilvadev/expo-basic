@@ -1,6 +1,6 @@
 import React from 'react';
 
-import HomeScreen from './screens/Home';
+import HomeScreen from '@screens/Home';
 
 // import Navigation from './Navigation';
 
