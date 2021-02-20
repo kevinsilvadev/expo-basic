@@ -7,7 +7,7 @@ import App from './src';
 function Main() {
   return (
     <>
-      <StatusBar style="auto" />
+      <StatusBar style="light" backgroundColor="#282a36" />
       <App />
     </>
   );
