@@ -1,8 +1,8 @@
-import React from "react";
+import React from 'react';
 
-import { StatusBar } from "expo-status-bar";
+import { StatusBar } from 'expo-status-bar';
 
-import App from "./src";
+import App from './src';
 
 function Main() {
   return (
