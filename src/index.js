@@ -1,6 +1,6 @@
 import React from 'react';
 
-// import { NavigationContainer } from '@react-navigation/native';
+import { NavigationContainer } from '@react-navigation/native';
 // import Navigation from './Navigation';
 import { StatusBar } from 'expo-status-bar';
 
@@ -10,7 +10,9 @@ function App() {
   return (
     <>
       <StatusBar style="light" backgroundColor="#282a36" />
-      <HomeScreen />
+      <NavigationContainer>
+        <HomeScreen />
+      </NavigationContainer>
     </>
   );
 }
